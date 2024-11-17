@@ -80,7 +80,7 @@
 (require 'magit-section)
 
 (require 'emacsql)
-(require 'emacsql-sqlite)
+;; (require 'emacsql-sqlite)
 
 (require 'org)
 (require 'org-attach)                   ; To set `org-attach-id-dir'
